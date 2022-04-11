@@ -1,0 +1,8 @@
+<p>
+    Course work: (<a target="_blank" href="https://brightspace.nyu.edu/d2l/home">Brightspace</a>)
+    <ul>
+        {% for course in site.data.courses %}
+        <li> {{ course.code }}: <a href="{{ course.link }}"> {{ course.name }} </a></li>
+        {% endfor %}
+    </ul>
+</p>
