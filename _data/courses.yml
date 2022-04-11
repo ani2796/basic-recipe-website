@@ -1,0 +1,11 @@
+- name: Compiler Construction
+  code: CSCI-GA-2130
+  link: /courses/compiler.html
+
+- name: Applied Cryptography and Network Security
+  code: CSCI-GA-3205
+  link: /courses/cryptography.html
+
+- name: Multicore Processors
+  code: CSCI-GA-3033
+  link: /courses/multicore.html
