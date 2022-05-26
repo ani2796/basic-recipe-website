@@ -1,7 +1,0 @@
-pa3: 
-  page: /courses/projects/cc-pa3.html
-  pdf: /assets/pdf/compiler/prog_assmt_3.pdf
-links:
-  venus164-front-end: https://venus.cs61c.org/
-  venus164-front-end-docs: https://cs61c.org/sp22/resources/venus-reference/
-  vs-code-venus-extension: https://marketplace.visualstudio.com/items?itemName=hm.riscv-venus
