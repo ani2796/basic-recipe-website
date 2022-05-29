@@ -1,0 +1,28 @@
+.page-heading {
+    text-align: center;
+    font-size: 60px;
+}
+
+.image {
+    text-align: center;
+}
+
+.odin-image {
+    height: auto;
+    width: 700px;
+}
+
+.african-sweet-potato-stew-image {
+    height: auto;
+    width: 600px;
+}
+
+.jackfruit-pulled-pork-image {
+    height: auto;
+    width: 500px;
+}
+
+.recipe-list-item {
+    font-family: "Copperplate", fantasy;
+    font-size: 20px;
+}
